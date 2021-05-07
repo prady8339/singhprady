@@ -63,7 +63,7 @@ color:white;
 }
 
 .bgi{
-  background-image: url("/Users/pradyumnasingh/Desktop/webdev/CSS - Mysite/images/net.gif");
+  background-image: url("net.gif");
   background-repeat: no-repeat;
   background-size: cover;
     background-attachment: fixed;
