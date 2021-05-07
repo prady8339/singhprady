@@ -1,0 +1,128 @@
+
+
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+h1{
+  font-size: 5.62rem;
+  font-family: 'Sacramento', cursive;
+      margin-top: 4.62rem;
+      color:white;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:white;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color:white;
+
+}
+.topContainer{
+  padding-top:100px;
+  position: relative;
+  background-color: black;
+
+}
+
+.cloudBottom{
+  position:absolute;
+left:30%;
+
+}
+.cloudTop{
+  position: absolute;
+  right: 24%;
+top: 49px;
+
+}
+.profile{
+
+padding-left: 55px;
+  width: 200px;
+
+
+
+}
+.middleContainer{
+  padding-top: 100px;
+  text-align: left;
+opacity:1.5;
+color:white;
+
+}
+.croc{
+  position:absolute;
+  width:200px;
+  height:200px;
+  margin:auto;
+}
+
+.bgi{
+  background-image: url("/Users/pradyumnasingh/Desktop/webdev/CSS - Mysite/images/net.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+    background-attachment: fixed;
+    background-color: black;
+
+}
+.bottom-container{
+  background-color: black;
+  color: white;
+}
+
+.contact-me{
+background-color: black;
+color: white;
+}
+
+.about{
+  padding-left: 20px;
+
+  opacity: 0.9;
+  display:inline-block;
+  width:500px;
+  margin:auto;
+
+}
+.skills{
+  padding-top: 20px;
+  color:white;
+  text-align: left;
+}
+.skill-row{
+  padding-top:20px;
+  padding-bottom: 20px;
+  color:white;
+  text-align: left;
+}
+.last{
+  background-color: #334443;
+}
+#abt{
+  padding-left: 117px;
+}
+#line{
+
+
+  width:36%;
+
+  margin-left: 0;
+
+}
+.hpad0{
+  padding-left: 175px;
+
+}
+.hpad1{
+  padding-left: 196px;
+
+}
+.hpad2{
+    padding-left: 194px;
+
+}
