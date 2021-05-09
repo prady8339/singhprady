@@ -4,7 +4,7 @@ body{
   margin:0;
   text-align: center;
   font-family: 'Merriweather', serif;
-
+background-color:black;
 }
 h1{
   font-size: 5.62rem;
@@ -22,6 +22,11 @@ h2{
   color:white;
 
 }
+
+hr{
+  border: 1px solid #a6d6d6;
+}
+
 .topContainer{
   padding-top:100px;
   position: relative;
@@ -63,7 +68,7 @@ color:white;
 }
 
 .bgi{
-  background-image: url("net.gif");
+  background-image: url("/Users/pradyumnasingh/Desktop/webdev/CSS - Mysite/images/net.gif");
   background-repeat: no-repeat;
   background-size: cover;
     background-attachment: fixed;
@@ -126,43 +131,42 @@ color: white;
     padding-left: 194px;
 
 }
-
 .BUTTON_DKK {
-  background: #0E3765;
-  background-image: -webkit-linear-gradient(top, #0E3765, #1E62D0);
-  background-image: -moz-linear-gradient(top, #0E3765, #1E62D0);
-  background-image: -ms-linear-gradient(top, #0E3765, #1E62D0);
-  background-image: -o-linear-gradient(top, #0E3765, #1E62D0);
-  background-image: -webkit-gradient(to bottom, #0E3765, #1E62D0);
-  -webkit-border-radius: 22px;
-  -moz-border-radius: 22px;
-  border-radius: 22px;
-  color: #FFFFFF;
-  font-family: Helvetica;
-  font-size: 25px;
-  font-weight: 200;
-  padding: 12px;
-  -webkit-box-shadow: 1px 1px 20px 0 #000000;
-  -moz-box-shadow: 1px 1px 20px 0 #000000;
-  box-shadow: 1px 1px 20px 0 #000000;
-  text-shadow: -12px 1px 20px #000000;
-  border: solid #337FED 0;
-  text-decoration: none;
-  display: inline-block;
-  cursor: pointer;
-  text-align: center;
-  margin: 20px;
+    background: #0E3765;
+    background-image: -webkit-linear-gradient(top, #0E3765, #1E62D0);
+    background-image: -moz-linear-gradient(top, #0E3765, #1E62D0);
+    background-image: -ms-linear-gradient(top, #0E3765, #1E62D0);
+    background-image: -o-linear-gradient(top, #0E3765, #1E62D0);
+    background-image: -webkit-gradient(to bottom, #0E3765, #1E62D0);
+    -webkit-border-radius: 22px;
+    -moz-border-radius: 22px;
+    border-radius: 22px;
+    color: #FFFFFF;
+    font-family: Helvetica;
+    font-size: 25px;
+    font-weight: 200;
+    padding: 12px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: -12px 1px 20px #000000;
+    border: solid #337FED 0;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin: 10px;
 }
 .BUTTON_DKK:hover {
- border: groove #FFFFFF 1px;
- background: #429552;
- background-image: -webkit-linear-gradient(top, #429552, #3D94F6);
- background-image: -moz-linear-gradient(top, #429552, #3D94F6);
- background-image: -ms-linear-gradient(top, #429552, #3D94F6);
- background-image: -o-linear-gradient(top, #429552, #3D94F6);
- background-image: -webkit-gradient(to bottom, #429552, #3D94F6);
- -webkit-border-radius: 20px;
- -moz-border-radius: 20px;
- border-radius: 20px;
- text-decoration: none;
+   border: groove #FFFFFF 1px;
+   background: #429552;
+   background-image: -webkit-linear-gradient(top, #429552, #3D94F6);
+   background-image: -moz-linear-gradient(top, #429552, #3D94F6);
+   background-image: -ms-linear-gradient(top, #429552, #3D94F6);
+   background-image: -o-linear-gradient(top, #429552, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #429552, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
 }
