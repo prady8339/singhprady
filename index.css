@@ -175,8 +175,14 @@ color: white;
 }
 
 
+
 .footer-link{
   margin:10px;
+  color:#34a918;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color:white;
 }
 
 .p-alpha{
