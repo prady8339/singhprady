@@ -5,6 +5,7 @@ body{
   text-align: center;
   font-family: 'Merriweather', serif;
 background-color:black;
+  line-height: 1.6;
 }
 h1{
   font-size: 5.62rem;
