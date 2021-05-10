@@ -157,7 +157,7 @@ color: white;
     display: inline-block;
     cursor: pointer;
     text-align: center;
-    margin: 10px;
+    margin: 0 auto 20px;
 }
 .BUTTON_DKK:hover {
    border: groove #FFFFFF 1px;
@@ -176,4 +176,8 @@ color: white;
 
 .footer-link{
   margin:10px;
+}
+
+.p-alpha{
+  margine-bottom:0;
 }
