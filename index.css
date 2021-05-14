@@ -1,5 +1,4 @@
 
-
 body{
   margin:0;
   text-align: center;
@@ -7,6 +6,7 @@ body{
 background-color:black;
   line-height: 1.6;
 }
+
 h1{
   font-size: 5.62rem;
   font-family: 'Sacramento', cursive;
@@ -14,16 +14,13 @@ h1{
       color:white;
       text-shadow: 2px 3px #58bcf7;
 }
-h3{
+
+h2,h3 {
   font-family: 'Montserrat', sans-serif;
   color:white;
 
 }
-h2{
-  font-family: 'Montserrat', sans-serif;
-  color:white;
 
-}
 
 hr{
   border: 1px solid #a6d6d6;
