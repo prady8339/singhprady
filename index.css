@@ -12,7 +12,7 @@ h1{
   font-family: 'Sacramento', cursive;
       margin-top: 4.62rem;
       color:white;
-      text-shadow: 2px 3px #58bcf7;
+      text-shadow: 2px 3px 5px #58bcf7;
 }
 
 h2,h3 {
