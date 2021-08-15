@@ -29,27 +29,32 @@ hr{
 .topContainer{
   padding-top:100px;
   position: relative;
-  background-color: black;
-
+  background-image: url("gokuX.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  padding-bottom: 694px;
+ }
+.gokuShift{
+  position: absolute;
+  left: 8%;
+  top:26%;
 }
-
 .cloudBottom{
   position:absolute;
-left:30%;
+left:8%;
 
 }
 .cloudTop{
   position: absolute;
-  right: 24%;
-top: 49px;
+  right: -10%;
+top: 26px;
 
 }
 .profile{
 
 padding-left: 55px;
   width: 200px;
-
-
 
 }
 .middleContainer{
@@ -172,8 +177,6 @@ color: white;
    text-decoration: none;
 }
 
-
-
 .footer-link{
   margin:10px;
   color:#34a918;
@@ -184,5 +187,5 @@ color: white;
 }
 
 .p-alpha{
-  margine-bottom:0;
+  margin-bottom:0;
 }
