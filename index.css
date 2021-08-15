@@ -36,9 +36,6 @@ hr{
   background-size: cover;
   padding-bottom: 694px;
   margin:0px;
- 
- 
-  
 }
 
 .gokuShift{
@@ -59,11 +56,10 @@ left:8%;
 top: 26px;
 
 }
+
 .profile{
-
-padding-left: 55px;
+  padding-left: 55px;
   width: 200px;
-
 }
 .middleContainer{
   padding-top: 100px;
@@ -86,6 +82,9 @@ color:white;
     background-attachment: fixed;
     background-color: black;
 
+}
+.profile-1{
+padding:100px;
 }
 .bottom-container{
   background-color: inherit;
@@ -122,12 +121,12 @@ height: 95vh;
   background-color: #334443;
   font-size:0.75rem;
 }
+
 #abt{
   padding-left: 117px;
 }
 #line{
-
-width:520px;
+width:820px;
 margin-left: 0;
 
 }
@@ -211,6 +210,16 @@ margin-left: 0;
     }
     #line{
     width:100%;
-      
+      }
+      .profile{
+       text-align: center;
+        width: 400px;
+        margin:auto;
+        padding:10px;
+  
+      }
+      #abt{
+        padding-left: 10px;
+        font-size: 40px;
       }
 } 
