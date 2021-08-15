@@ -1,2 +1,2 @@
 # Myprofile!
-genereal portfolio for illustration.
+basic portfolio for illustration.
