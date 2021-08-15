@@ -27,6 +27,7 @@ hr{
 }
 
 .topContainer{
+  height: 70vh;
   padding-top:100px;
   position: relative;
   background-image: url("gokuX-black.png");
@@ -34,11 +35,18 @@ hr{
   background-attachment: fixed;
   background-size: cover;
   padding-bottom: 694px;
- }
+  margin:0px;
+ 
+ 
+  
+}
+
 .gokuShift{
   position: absolute;
   left: 8%;
   top:26%;
+  opacity:0.85;
+  
 }
 .cloudBottom{
   position:absolute;
@@ -83,23 +91,22 @@ color:white;
   background-color: inherit;
   color: white;
   font-size: 1rem;
- 
+  height: 5vh;
 }
 
 .contact-me{
 background-color: rgb(0, 0, 0);
 color: white;
+height: 95vh;
 }
 
 .about{
   padding-left: 20px;
-
   opacity: 0.9;
   display:inline-block;
   width:500px;
-  margin:auto;
-
-}
+  }
+  
 .skills{
   padding-top: 20px;
   color:white;
@@ -120,10 +127,8 @@ color: white;
 }
 #line{
 
-
-  width:36%;
-
-  margin-left: 0;
+width:520px;
+margin-left: 0;
 
 }
 .hpad0{
@@ -190,3 +195,22 @@ color: white;
 .p-alpha{
   margin-bottom:0;
 }
+
+/* media 'responsive' */
+ @media (max-width:1094px){
+  .topContainer{
+    background-image: url("gokuX-black-90.png");
+  }
+    .about{
+      padding-left: 0;
+      opacity: 1;
+     display:static;
+    width:auto;
+    opacity:1;
+    text-align: center;
+    }
+    #line{
+    width:100%;
+      
+      }
+} 
