@@ -194,6 +194,20 @@ margin-left: 0;
 .p-alpha{
   margin-bottom:0;
 }
+.madeWith{
+  color:black;
+}
+.madeWith a{
+  color:rgb(0, 183, 255);
+}
+.madeWith a:hover{
+  color:white;
+  
+}
+.madeWith span:hover{
+  color:white;
+  
+}
 
 /* media 'responsive' */
  @media (max-width:1094px){
