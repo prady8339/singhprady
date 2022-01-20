@@ -1,0 +1,23 @@
+{
+  "name": "singhprady",
+  "version": "1.0.0",
+  "description": "Basic portfolio for illustration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prady8339/singhprady.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prady8339/singhprady/issues"
+  },
+  "homepage": "https://github.com/prady8339/singhprady#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}

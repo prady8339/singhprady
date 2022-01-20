@@ -30,7 +30,7 @@ hr{
   height: 70vh;
   padding-top:100px;
   position: relative;
-  background-image: url("gokuX-black.png");
+  background-image: url("src/gokuX-black.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -76,7 +76,7 @@ color:white;
 }
 
 .bgi{
-  background-image: url("net.gif");
+  background-image: url("src/net.gif");
   background-repeat: no-repeat;
   background-size: cover;
     background-attachment: fixed;
@@ -212,7 +212,7 @@ margin-left: 0;
 /* media 'responsive' */
  @media (max-width:1094px){
   .topContainer{
-    background-image: url("gokuX-black-90.png");
+    background-image: url("src/gokuX-black-90.png");
   }
     .about{
       padding-left: 0;
